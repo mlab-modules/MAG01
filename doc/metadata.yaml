@@ -10,6 +10,7 @@ images:
 - doc/html/Pictures/MAG01A_2.jpg
 - doc/img/MAG01A_QRcode.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
