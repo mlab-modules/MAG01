@@ -1,4 +1,5 @@
-description: null
+description: Precision I2C magnetometer for compass and navigation applications in
+  robotics.
 github_branch: MAG01A
 github_repo: MAG01
 github_url: https://github.com/mlab-modules/MAG01
